@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RimeOfTheFrostmaidenJournal.Server", "RimeOfTheFrostmaidenJournal\Server\RimeOfTheFrostmaidenJournal.Server.csproj", "{D1DD26E6-34D9-4C6E-96E6-559CF8C4FFF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RimeOfTheFrostmaidenJournal.Client", "RimeOfTheFrostmaidenJournal\Client\RimeOfTheFrostmaidenJournal.Client.csproj", "{C9CF6D79-E0D9-4DF4-9767-ACD8BFBE6D9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RimeOfTheFrostmaidenJournal.Shared", "RimeOfTheFrostmaidenJournal\Shared\RimeOfTheFrostmaidenJournal.Shared.csproj", "{5B7B14B6-5CDA-4FDC-B382-5D6880CE5DC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4EFEE4CD-D788-4440-9249-47C5B6FCB8BE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RimeOfTheFrostmaidenJournal.BlazorComponents", "RimeOfTheFrostmaidenJournal\BlazorComponents\RimeOfTheFrostmaidenJournal.BlazorComponents.csproj", "{729F7D6C-D3AB-4F60-9D44-D3BCF2AE9CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1DD26E6-34D9-4C6E-96E6-559CF8C4FFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DD26E6-34D9-4C6E-96E6-559CF8C4FFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DD26E6-34D9-4C6E-96E6-559CF8C4FFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DD26E6-34D9-4C6E-96E6-559CF8C4FFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CF6D79-E0D9-4DF4-9767-ACD8BFBE6D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CF6D79-E0D9-4DF4-9767-ACD8BFBE6D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CF6D79-E0D9-4DF4-9767-ACD8BFBE6D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CF6D79-E0D9-4DF4-9767-ACD8BFBE6D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7B14B6-5CDA-4FDC-B382-5D6880CE5DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7B14B6-5CDA-4FDC-B382-5D6880CE5DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7B14B6-5CDA-4FDC-B382-5D6880CE5DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7B14B6-5CDA-4FDC-B382-5D6880CE5DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729F7D6C-D3AB-4F60-9D44-D3BCF2AE9CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729F7D6C-D3AB-4F60-9D44-D3BCF2AE9CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729F7D6C-D3AB-4F60-9D44-D3BCF2AE9CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729F7D6C-D3AB-4F60-9D44-D3BCF2AE9CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27070F4-EE2C-4039-BCF4-D849356353E0}
+	EndGlobalSection
+EndGlobal
