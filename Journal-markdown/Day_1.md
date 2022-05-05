@@ -1,3 +1,5 @@
+Date: October 14, 2021 at 5:30:00 PM EST
+
 # Day 1
 
 Day 1 Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond
@@ -8,3 +10,5 @@ Day 1 Character Builder for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Be
 - Targos -> Bremen
 - Torga Icebane - merchant
 - Killed Sephek
+
+![](images/Day1.jpeg)

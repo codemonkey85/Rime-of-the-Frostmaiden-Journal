@@ -1,3 +1,5 @@
+Date: November 18, 2021 at 5:30:00 PM EST
+
 # Day 4
 
 - Back to Bryn Shander
@@ -17,3 +19,9 @@
 - Fought another big meanie, c’mon, seriously - Got a bunch more loot, went back to town
 - Traded livestock for a free stay
 - LEVEL UP TO 3
+
+![](images/Note.pdf)
+
+![](images/Charm.jpg)
+
+![](images/Map.jpg)

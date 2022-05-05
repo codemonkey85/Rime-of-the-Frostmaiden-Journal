@@ -1,3 +1,5 @@
+Date: November 11, 2021 at 5:30:00 PM EST
+
 # Day 3
 
 - Started on mountain looking for remaining survivors

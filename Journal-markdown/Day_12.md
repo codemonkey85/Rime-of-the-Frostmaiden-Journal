@@ -1,3 +1,5 @@
+Date: March 10, 2022 at 5:30:00 PM EST
+
 # Day 12
 
 - The inscription carved into the arch above the a poem written in the Dwarvish alphabet:
@@ -20,4 +22,4 @@
 - Back to Bremen, got a scroll of animal friendship
 - Next stop: Good Mead and our manor
 
-IMAGE GOES HERE
+![](images/Creepy%20poem%20arch%20things.png)

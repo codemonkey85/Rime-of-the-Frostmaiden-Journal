@@ -1,3 +1,5 @@
+Date: December 2, 2021 at 5:30:00 PM EST
+
 # Day 5
 
 - Identified the things, 2 vials of animal friendship

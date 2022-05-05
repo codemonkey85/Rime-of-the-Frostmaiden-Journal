@@ -1,3 +1,5 @@
+Date: February 10, 2022 at 5:30:00 PM EST
+
 # Day 10
 
 - Avalanche! And not the FFVII kind

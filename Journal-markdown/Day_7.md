@@ -1,3 +1,5 @@
+Date: December 30, 2021 at 5:30:00 PM EST
+
 # Day 7
 
 - Loot bodies

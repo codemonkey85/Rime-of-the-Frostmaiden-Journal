@@ -1,3 +1,5 @@
+Date: March 24, 2022 at 5:30:00 PM EST
+
 # Day 13
 
 - Made it to Dougan’s Hole, look for wolves outside of town

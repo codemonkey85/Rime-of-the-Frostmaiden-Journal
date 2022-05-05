@@ -1,3 +1,5 @@
+Date: October 28, 2021 at 5:30:00 PM EST
+
 # Day 2
 
 - Back to Targos for turn-in
@@ -19,3 +21,9 @@
 - Guide Jarpha
 - Drinking game
 - Torvis
+
+![](images/Icewind%20Dale.jpeg)
+
+![](images/10%20Towns.jpeg)
+
+![](images/Day2.jpeg)

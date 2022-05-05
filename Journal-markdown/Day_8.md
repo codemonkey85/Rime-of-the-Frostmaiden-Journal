@@ -1,3 +1,5 @@
+Date: January 13, 2022 at 5:30:00 PM EST
+
 # Day 8
 
 - Nymsy Huddle telling us about talking moose in forest by Lonelywood

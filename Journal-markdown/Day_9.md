@@ -1,3 +1,5 @@
+Date: January 27, 2022 at 5:30:00 PM EST
+
 # Day 9
 
 - Heading to the cabin

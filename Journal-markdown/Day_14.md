@@ -1,3 +1,5 @@
+Date: April 7, 2022 at 5:30:00 PM EST
+
 # Day 14
 
 - Crafting time for Balrash, it’s gross (because it’s Balrash amirite)
@@ -21,4 +23,4 @@
 - Fought a monster
 - Made it to Good Meade for a long rest
 
-IMAGE GOES HERE
+![](images/Mastodon%20Shield.png)

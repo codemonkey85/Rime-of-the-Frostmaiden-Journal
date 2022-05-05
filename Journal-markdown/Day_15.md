@@ -1,3 +1,5 @@
+Date: April 21, 2022 at 5:30:00 PM EST
+
 # Day 15
 
 - Waking up in Good Meade
@@ -20,4 +22,6 @@
 - Balrash drops the dark dwarf to his dark doom
 - Investigating where this Chardalyn is coming / going
 
-IMAGE GOES HERE
+BONUS CONTENT: Jay's notes!
+
+![](images/Jays%20notes.png)
